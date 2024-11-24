@@ -1,0 +1,13 @@
+
+services:
+  movie-dashboard:
+    build:
+      context: .
+    container_name: movie-dashboard
+    ports:
+      - 3000:3000
+    environment:
+      - NODE=${NODE}
+
+
+      
