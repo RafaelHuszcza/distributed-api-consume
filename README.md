@@ -1,8 +1,17 @@
-# Project Title
+# Movie Search with Crypto Conversion
 
 Available at: https://distribuidos.rafaelhuszcza.com/
 
-A brief description of the project, what it does, and its purpose.
+This project is a movie search application that allows users to search for movies and view their box office earnings converted into various cryptocurrencies. It combines data from a movie API and the CoinGecko API to provide up-to-date cryptocurrency conversions.
+
+## Features
+
+- Search for movies using a movie database API
+- View movie details including box office earnings
+- Convert box office earnings to various cryptocurrencies in real-time
+- Add and remove custom cryptocurrencies for conversion
+- Save favorite movies locally
+- Responsive design for various screen sizes
 
 ## Table of Contents
 
