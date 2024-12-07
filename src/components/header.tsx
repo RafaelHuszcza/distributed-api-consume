@@ -12,8 +12,10 @@ import { Button } from './ui/button'
 
 export function Header() {
   const navigation = [
-    { name: 'Favorites', href: '/favorites' },
     { name: 'Movies', href: '/' },
+    { name: 'Favorites', href: '/favorites' },
+    { name: 'Dogs', href: '/dogs' },
+    { name: 'Pokemon', href: '/pokemon' },
   ]
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const pathname = usePathname()
